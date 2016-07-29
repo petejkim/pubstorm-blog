@@ -1,38 +1,39 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<!-- bootstrap - Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<script src="/javascripts/pubstorm.js"></script>
+<div class="row footer" role="contentinfo">
+  <div class="col-xs-12 col-sm-12 col-md-4">
+    <h4>Company</h4>
+    <ul class="footer-links">
+      <li>&copy; <a href="https://www.pubstorm.com/">PubStorm 2016</a></li>
+      <li>
+        <a href="https://www.pubstorm.com/dmca">DCMA</a>
+      </li>
+      <li>
+        <a href="https://www.pubstorm.com/terms-of-service">Terms of Service</a>
+      </li>
+      <li>
+        <a href="https://www.pubstorm.com/privacy-policy">Privacy Policy</a>
+      </li>
+    </ul>
   </div>
-
-</footer>
+  <div class="col-xs-12 col-sm-12 col-md-4">
+    <h4>Learn More</h4>
+    <ul class="footer-links">
+      <li>
+        <a href="https://www.pubstorm.com/">PubStorm</a>
+      </li>
+      <li>
+        <a href="https://help.pubstorm.com/">PubStorm Docs</a>
+      </li>
+      <li>
+        <a href="https://www.twitter.com/nitrous">Twitter</a>
+      </li>
+    </ul>
+  </div>
+  <div class="col-xs-12 col-sm-12 col-md-4">
+    <h4>Get product updates</h4>
+    {% include mailchimp.html %}
+  </div>
+</div>

@@ -1,0 +1,9 @@
+{% assign posts = site.posts | sort: 'navorder' %}
+<h4>Related Posts</h4>
+<ul class="links">
+  {% for post in posts %}
+    {% unless post.draft %}
+      <li class="vh600"><a href="{{ post.url }}" id="posts">{{ post.title }}</a></li>
+    {% endunless %}
+  {% endfor %}
+</ul>

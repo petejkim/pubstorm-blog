@@ -1,5 +1,9 @@
-PubStorm Blog
-=============
+# PubStorm Blog
 
-- - -
-Copyright (c) 2016 Nitrous, Inc. All Rights Reserved.
+Contributing:
+
+    gem install jekyll
+
+    gem install kramdown rouge
+
+    jekyll serve --host 0.0.0.0
