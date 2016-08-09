@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "PubStorm at Forward.js"
-date:   2016-07-28 12:25:08 -0700
+title:  "5 Development Challenges Solved by PubStorm"
+date:   2016-08-09 12:30:08 -0700
 categories: general cdn deployment
 ---
 
