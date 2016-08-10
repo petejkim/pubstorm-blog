@@ -3,6 +3,7 @@ layout: post
 title:  "Page load times and web development platforms"
 date:   2016-07-08 8:25:03 -0700
 categories: static-sites speed performance
+image: images/260x200-browser-speed@2x.jpg
 ---
 
 An important - and sometimes overlooked - consideration when developing web pages, is how fast they will load. Today, more and more material is being included on pages. In fact, according to software engineer Ronan Cremin in this [Wired Magazine article](http://www.wired.com/2016/04/average-webpage-now-size-original-doom/), ‘today the average webpage is about the same size, data-wise, as the classic computer game Doom. A compressed copy of the installer for the shareware version of Doom takes up about 2.39MB of space. Today’s average webpage, meanwhile, requires users to download about 2.3MB worth of data.”

@@ -3,6 +3,7 @@ layout: post
 title:  "5 Questions about the PubStorm CDN"
 date:   2016-07-15 14:25:08 -0700
 categories: static-sites cdn performance
+image: images/cdn@2x.jpg
 ---
 
 One great benefit of hosting your site on [PubStorm](https://www.pubstorm.com) is the access you get to our Production Grade CDN. We provide a lighting fast CDN for your assets, automatic HTML/CSS/JS optimization and support for **custom domains for free**.
