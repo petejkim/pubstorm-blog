@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 Common Website Development Challenges and How A Great Static Hosting Provider Can Help"
+title:  "What to Look For In Modern Website Hosting"
 date:   2016-08-24 12:30:08 -0700
 categories: general cdn deployment
 ---
