@@ -26,3 +26,5 @@ kramdown:
 sass:
   style: compressed
   sass_dir: css/_sass
+
+#future: true
