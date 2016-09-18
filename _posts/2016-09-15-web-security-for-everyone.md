@@ -4,10 +4,13 @@ title:  "How Important to Security is it to Separate Front and Back End for Web 
 date:   2016-09-15 12:30:08 -0700
 categories: web security
 image: /images/security.png
+excerpt_separator: <!--more-->
 ---
 
 It’s a grim scene when it comes to online security. Almost on a weekly basis, we hear about massive data breaches where hundreds of millions of consumer records are exposed. News items like the [Panama Papers](http://www.forbes.com/sites/thomasbrewster/2016/04/05/panama-papers-amazon-encryption-epic-leak/#666ce9411df5) and the now-classic [Target Data Breach](http://www.forbes.com/sites/paularosenblum/2014/01/17/the-target-data-breach-is-becoming-a-nightmare/#e0e9eaf4b29b) make developers and consumers alike want to bury their personal information in a deep pit for a few decades. 
  
+<!--more-->
+
 Based on these reports, most front end developers who are not working for finance or multibillion dollar e-commerce sites might think that security is only an issue for big banks and retailers. Unfortunately, this is patently not true! Hundreds of thousands of individual web developers deploy vulnerable sites every day, and have no idea they’re doing so.  A [report from the US Small Business Administration](https://www.sbir.gov/tutorials/cyber-security/tutorial-1) notes that in the last five years there has been a steady increase in attacks targeting businesses with less than 250 employees, with 43 percent of all attacks targeted at small businesses in 2015. 
 
 The good news is, deploying secure web sites has never been easier.  Here’s a few things to keep in mind when building your site for the best security.
