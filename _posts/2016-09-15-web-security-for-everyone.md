@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Important to Security is it to Separate Front and Back End for Web Development?"
+title:  "Security: How important is it to Separate Front and Back End for Web Development?"
 date:   2016-09-15 12:30:08 -0700
 categories: web security
 image: /images/security.png
