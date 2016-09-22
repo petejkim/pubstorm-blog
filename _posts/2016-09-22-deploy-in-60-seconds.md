@@ -3,7 +3,7 @@ layout: post
 title:  "Deploy a Website in 60 Seconds"
 date:   2016-09-22 12:30:08 -0700
 categories: web hosting and deployment
-image: /images/timer.png
+image: /images/timer.jpg
 excerpt_separator: <!--more-->
 ---
 
