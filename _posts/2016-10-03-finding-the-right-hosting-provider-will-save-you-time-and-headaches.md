@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finding the Right Hosting Provider Will Save you Time and Headaches"
+title:  "Three Things to Keep in Mind for Site Hosting"
 date:   2016-10-03 12:30:08 -0700
 categories: web hosting and deployment
 image: /images/dev-workload-1.jpg
