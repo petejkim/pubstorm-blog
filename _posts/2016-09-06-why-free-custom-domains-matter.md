@@ -4,9 +4,12 @@ title:  "Why Free Custom Domains Matter"
 date:   2016-09-06 12:30:08 -0700
 categories: custom domains
 image: /images/https.jpg
+excerpt_separator: <!--more-->
 ---
 
 How many websites do you think exist today? As we reach the 25th anniversary of the first web page, the internet has surpassed [1 billion](http://www.huffingtonpost.com/tomas-laurinavicius/reasons-why-you-should-bu_b_11814388.html) custom domains. That’s a lot of custom domains already claimed by someone else.
+
+<!--more--> 
  
 With just about every regular word combination claimed by now, you may wonder if it even makes any sense to have your own custom domain. Here are some reasons why custom domains are more important than ever.
 
